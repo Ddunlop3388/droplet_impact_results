@@ -1,0 +1,7 @@
+
+Yokoi. Numerical Studies of the influence of the dynamic contact angle on a droplet impacting on a dry surface
+
+d=2.28mm
+v = 1.0m/s
+
+contact angle: 90 deg

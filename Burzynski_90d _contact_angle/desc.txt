@@ -1,0 +1,8 @@
+Burzynski. On the splashing of high-speed drops impacting a dry surface
+
+Dia: 3.7m
+Vel: 10m/s
+
+
+contact angle: 90 deg (not sure if this is what the paper uses)
+

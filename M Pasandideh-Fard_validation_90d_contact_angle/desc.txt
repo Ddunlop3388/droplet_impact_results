@@ -1,0 +1,6 @@
+ Pasandideh. Capillary effects during droplet impact on a solid surface
+
+dia: 2.0mm
+vel: 1.0 m/s
+
+contact angle: 90 deg (not sure if this is what study used)

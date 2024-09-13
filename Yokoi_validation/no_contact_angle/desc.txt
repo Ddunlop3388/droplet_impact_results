@@ -1,0 +1,7 @@
+Yokoi. numerical studies of the influence of the dynamic contact angle on a droplet impacting on a dry surface.
+
+Dia = 2.28mm
+V = 1.0 m/s
+
+contact angel: not specified
+
